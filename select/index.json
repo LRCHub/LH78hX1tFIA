@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "モノノケハカランダ",
+  "base_artist": "Fujifabric",
+  "createdAt": "2026-02-20T13:14:47.229820Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モノノケハカランダ",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/pl_01_モノノケハカランダ_フジファブリック.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "モノノケハカランダ",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/pl_02_モノノケハカランダ_フジファブリック.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "モノノケハカランダ",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/pl_03_モノノケハカランダ_フジファブリック.txt"
+    }
+  ]
+}
